@@ -1,0 +1,12 @@
+.mains{
+    display: flex;
+    padding-top: 25px;
+    background-color: rgb(121, 116, 186);
+    height: 60px;
+    justify-content: space-around;
+}
+.routes{
+    font-size: 30px;
+    margin-top: 150px;
+    color: rgb(73, 120, 183);
+}
