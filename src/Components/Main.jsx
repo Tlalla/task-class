@@ -2,7 +2,7 @@ import About from "./About";
 import Contact from "./Contact";
 import Examples from "./Examples";
 import "./Main.css"
-import { Routes, Route, Link, NavLink } from "react-router-dom";
+import { Routes, Route, NavLink } from "react-router-dom";
 const Main =()=>{
     return(
         <div>
